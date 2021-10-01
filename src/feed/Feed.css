@@ -1,0 +1,11 @@
+.feed {
+  height: 100vh;
+  padding: 25px;
+  color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  /*  align-items: center; */
+  align-content: center;
+}
