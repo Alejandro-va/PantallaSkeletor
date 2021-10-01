@@ -35,6 +35,10 @@ useEffect(() => {
     });
   }, []); */
 
+  //https: //www.youtube.com/watch?v=PNQGbczXkMI
+
+  //https: //www.youtube.com/watch?v=2DHer5AtyiU
+
   return (
     <div className="feed">
       {isLoading && <Skeleton />}
